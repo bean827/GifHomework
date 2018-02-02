@@ -1,0 +1,17 @@
+body {
+	background-image: url(http://www.webdesignburn.com/wp-content/uploads/2013/01/comic-collage-art.jpg);
+
+}
+
+.jumbotron {
+	background-color: black;
+	text-align: center;
+	font-color: red;
+	font-size: 30px;
+	font: "comic sans"; 
+}
+
+#searchButton {
+	background-color: black;
+	font-style: bold;
+}
